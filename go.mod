@@ -1,4 +1,4 @@
-module github.com/L0Qqi/protos
+module protos
 
 go 1.22.5
 
